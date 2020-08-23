@@ -6,6 +6,6 @@ It displays:
     - The full user input, with the check digit separated
     - A comparison of the provided check digit compared to the expected (calculated) check digit
     - A clear output of valid or invalid for the user input
-    - It must indicate if the solution is long enough to be a credit card number (16 digits)
+    - An indication of whether the solution is long enough to be a credit card number (16 digits) or not
     
 The application also consists of 10 JUnit tests.
